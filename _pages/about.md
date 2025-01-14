@@ -20,4 +20,4 @@ I am a 3rd-year PhD student in the Department of Mechanical and Production Engin
 
 My research focuses on **3D Computer Vision** and **Robotics**, with key interests in 3D scanning, point cloud processing, and 3D object detection. I am passionate about applying these technologies to robotics, particularly in 3D object manipulation and grasping, to develop innovative solutions for manufacturing automation.
 
-As I work towards completing my PhD by **June 2025**, I am actively seeking (research) *internship opportunities* and exploring career paths in *Computer Vision Algorithm, Robotics and Production Automation*. Feel free to reach out! You can view my CV [here](assets/pdf/Leihui_CV_JOB.pdf).
+As I work towards completing my PhD by **June 2025**, I am actively seeking (research) *internship opportunities* and exploring career paths in *Computer Vision Algorithm, Robotics and Production Automation*. Feel free to reach out! Don’t hesitate to contact me if you’d like to receive **my CV**.
